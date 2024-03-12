@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.3.1//EN
+N:Coman-Oprin;Andreea;;;
+FN:Andreea Coman-Oprin
+EMAIL;type=INTERNET;type=WORK;type=pref:andreea@cloudnativesolutions.ro
+EMAIL;type=INTERNET;type=HOME:andreea@oprin.ro
+TEL;type=pref:0721 907 920
+END:VCARD
